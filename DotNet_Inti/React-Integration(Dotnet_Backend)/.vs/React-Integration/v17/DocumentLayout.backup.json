@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|c:\\users\\subrato ghosh\\source\\repos\\react-integration\\react-integration\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|solutionrelative:react-integration\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|c:\\users\\subrato ghosh\\source\\repos\\react-integration\\react-integration\\databaseconnectivity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|solutionrelative:react-integration\\databaseconnectivity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|c:\\users\\subrato ghosh\\source\\repos\\react-integration\\react-integration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|solutionrelative:react-integration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|c:\\users\\subrato ghosh\\source\\repos\\react-integration\\react-integration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|solutionrelative:react-integration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|c:\\users\\subrato ghosh\\source\\repos\\react-integration\\react-integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|solutionrelative:react-integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|c:\\users\\subrato ghosh\\source\\repos\\react-integration\\react-integration\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|solutionrelative:react-integration\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|c:\\users\\subrato ghosh\\source\\repos\\react-integration\\react-integration\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|solutionrelative:react-integration\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|c:\\users\\subrato ghosh\\source\\repos\\react-integration\\react-integration\\react-integration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FDB7946-E336-428D-B2D1-848E081BF7D2}|React-Integration\\React-Integration.csproj|solutionrelative:react-integration\\react-integration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "React-Integration\\Model\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\Model\\UserDto.cs",
+              "RelativeToolTip": "React-Integration\\Model\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:50:23.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "React-Integration\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\Properties\\launchSettings.json",
+              "RelativeToolTip": "React-Integration\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T07:13:35.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\Program.cs",
+              "RelativeDocumentMoniker": "React-Integration\\Program.cs",
+              "ToolTip": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\Program.cs",
+              "RelativeToolTip": "React-Integration\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:24:48.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\DatabaseConnectivity\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "React-Integration\\DatabaseConnectivity\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\DatabaseConnectivity\\ApplicationDbContext.cs",
+              "RelativeToolTip": "React-Integration\\DatabaseConnectivity\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:11:41.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\Model\\User.cs",
+              "RelativeDocumentMoniker": "React-Integration\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\Model\\User.cs",
+              "RelativeToolTip": "React-Integration\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:10:29.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "React-Integration\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\Controllers\\UserController.cs",
+              "RelativeToolTip": "React-Integration\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAASwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:09:30.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "React-Integration.csproj",
+              "DocumentMoniker": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\React-Integration.csproj",
+              "RelativeDocumentMoniker": "React-Integration\\React-Integration.csproj",
+              "ToolTip": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\React-Integration.csproj",
+              "RelativeToolTip": "React-Integration\\React-Integration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T06:07:07.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\appsettings.json",
+              "RelativeDocumentMoniker": "React-Integration\\appsettings.json",
+              "ToolTip": "C:\\Users\\Subrato ghosh\\source\\repos\\React-Integration\\React-Integration\\appsettings.json",
+              "RelativeToolTip": "React-Integration\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T06:22:22.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
